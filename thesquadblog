@@ -1,1 +1,84 @@
+# ljdoodle.github.io/thesquadblog
+<!DOCTYPE HTMl>
+<html>
+  <head>
+    <title>The Squad Blog: Weekly updates</title>
+    <meta charset="utf-8">
+    
+    <style>
+      h1 {
+        color: rgb(66, 66, 66);
+      }
+      
+      h2 {
+        color: rgb(33, 33, 33);
+      }
+      
+      p {
+        color: rgb(0, 0, 0);
+      }
+      
+      body {
+        background-color: rgb(255, 255, 255);
+      }
+      
+      #accelerando-question {
+        color: red;
+        background-color: rgb(140, 0, 140);
+      }
+      
+      #altogether-question {
+        color: red;
+        background-color: rgb(140, 0, 140);
+      }
+    </style>
+    
+  </head>
+  <body>
+    <h1>
+      The Squad Blog
+    </h1>
+    <p>Hi there! My name is Claire, and I use the website to post (hopefully fairly regular) updates about my friends and I 
+        (a group known, among other things, as the 'The Squad')!
+    </p>
+    
+    <h2> 6-31-2023 (Week 26) </h2>
+    <p> Good morning everyone! It's around the midpoint of this year, and around the midpoint of my summer vacation.
+        As such, I'm in kind of a weird transitional period. I just finished my first set of 5-week summer classes,
+        and I didn't sign up for any second-set classes (though that's not off the table yet), so I have a bit of downtime.
+        Being me, I want to take this time for a little bit of self-edification, and work on my writing skills.
+        After a long bit of thought and a chat with some of my friends, I decided to try my hand at a little bit of blogging.
+        Manfred's letting me use this old website, so I'm also taking this opportunity to work on my HTML/CSS abilities (and trust me, 
+        there's a lot of work to be done). <br> <br>
+        I want to take a little bit of time before the actual 'blog' part to talk about my vision for this project.
+        My plan is to try to share little pieces of my life with y'all as often as I can.
+        That said, my life alone is not very interesting.
+        So, as you can probably tell from the title of this weblog, it will mainly be focused on the antics of me and a few of my close friends.
+        In the coming weeks, you'll probably learn a little more about them, but I'll start you off with just a brief overview:
+        <ul>
+            <li> Claire (that's me!) - I'm a college sophomore majoring in journalism, and I like reading, writing, and drawing.</li>
+            <li> Manfred - The one who's letting me use his website. We've known each other since elementary school.
+                He's majoring in computer science, and he likes playing golf and video games (he's 
+                currently making his way through TOTK).
+            </li>
+            <li> Joseph - I probably know him the least out of anyone in the squad, 
+                but he's probably Manfred's best friend, so he's around all the time. The two of them love playing quiz bowl together,
+                because they're both nerds.
+            </li>
+            <li> Georgia - I met her through cross country, and we like to go exploring. 
+                Georgia fancies herself an amateur ornithologist.
+            </li>
+            <li> Jaycee - They're a music major, and when they're not hanging out with us or their band (and sometimes even when they are),
+                they make themselves very busy with all sorts of projects.
+            </li>
+        </ul>
+
+    <img src="E30CB389-33F5-4DC4-B64A-0702C53E35CE.png" alt="Two Panlirus interruptus" width="200">
+    
+    <h2 id="accelerando-question"> Have you ever read <em> Accelerando </em>? </h2>
+    
+    <p id="altogether-question"> What about The Altogether? V'you ever listened to them? </p>
+    
+  </body>
+</html>
 
